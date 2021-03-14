@@ -6,4 +6,4 @@ Thanks :)
 
 ### Contact
 
-You can reach me through my Discord server at [Discord](https://discord.gg/3wbEfcJy2A). My username is siege#4537.
+You can reach me through my [Discord server](https://discord.gg/3wbEfcJy2A). My username is siege#4537.
