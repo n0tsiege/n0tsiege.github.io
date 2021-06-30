@@ -1,0 +1,37 @@
+.top-description {
+    color: white;
+    text-align: center;
+    font-size: 0.6cm;
+}
+
+.knowledge-hdr {
+    color: #00FFCA;
+    text-align: center;
+    font-size: 0.13in;
+    padding-top: 2px;
+}
+
+.knowledge-desc {
+    color: white;
+    text-align: center;
+    padding-top: 6px;
+}
+
+.knowledge-desc a {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.fivem-img, .gta-img {
+    padding-top: 5px;
+    height: 120px;
+    padding: 15px;
+}
+
+.copyright {
+    color: white;
+    text-align: center;
+    font-size: 0.12in;
+    padding-top: 2px;
+}

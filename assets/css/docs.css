@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.docs-notice-hdr {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.docs-notice-text {
+    font-size: medium;
+    text-align: center;
+}
+
+.downloads h4, p {
+    color: white;
+}
+
+.downloads h4 {
+    padding-top: 30px;
+}
+
+.downloads a {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
