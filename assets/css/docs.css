@@ -28,3 +28,13 @@ body {
     font-weight: bold;
     text-decoration: underline;
 }
+
+.downloads h3 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.downloads p, a {
+    text-align: center;
+}
