@@ -1,6 +1,6 @@
-# [notsiege.wtf](https://notsiege.wtf)
+# [notsiege.wtf](https://n0tsiege.github.io)
 
-Welcome to the source code for my personal site, [notsiege.wtf](https://notsiege.wtf).
+Welcome to the source code for my personal site, [notsiege.wtf](https://n0tsiege.github.io).
 
 Feel free to use this code yourself (following the license, of course). It was 100% coded from scratch by me.
 
